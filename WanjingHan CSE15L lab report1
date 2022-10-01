@@ -1,14 +1,15 @@
-1.Installing VScode
+1. Installing VScode
  
+ ![Image](http://url/a.png)
 
 
 I installed VScode before the lab. I downloaded the VScode installer and then installed it. 
  
  
-2.Remotely Connecting
+2. Remotely Connecting
 
 
-
+![Image](http://url/a.png)
 
 
 
@@ -22,8 +23,10 @@ However, all of us have different number in “Time”, “Users”, “Load”,
 
 
 
-3.Trying Some Commands
+3. Trying Some Commands
 
+![Image](http://url/a.png)
+![Image](http://url/a.png)
 
 
 
@@ -35,8 +38,10 @@ I used these commands: cd ~, cd, ls -lat, ls -a, ls <directory> according to the
 
 
 
-4.Moving Files with scp
+4. Moving Files with scp
 
+![Image](http://url/a.png)
+![Image](http://url/a.png)
 
 First I created a file and added some code. Then, I entered “scp WhereAmI.java cs15lfa22dm@ieng6.ucsd.edu:~/”using my computer terminal. 
 Then I used these commands: “javac WhereAmI.java” and “java WhereAmI”. Then I tried to use these commands in the remote terminal.
@@ -47,6 +52,7 @@ I think that copying and running the file for 100 times need about several minut
  
 5. Setting an SSH Key
 
+![Image](http://url/a.png)
 
 First, I used the command “ssh-keygen”. 
 Then I entered “/Users/wanjinghan/.ssh/id_rsa” for savingthe key. 
@@ -61,7 +67,7 @@ I found that I only use fifty one seconds to do the experiment. I saved about fo
 
 6. Optimizing Remote Running
 
-
+![Image](http://url/a.png)
 
 First, I changed the code in the file. 
 After that, I used three commands: “cp WhereAmI.java OtherMain.java”, “javac OtherMain.java” and “java WhereAmI”. 
