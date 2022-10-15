@@ -108,3 +108,6 @@ However, I found that I could use one command to run all of these commands: “c
 This could save time for use. After this, my friend told me that we could use up arrow counts to use the last command in the terminal. 
 I think these could save a lot of time and work for use.
 
+
+
+
