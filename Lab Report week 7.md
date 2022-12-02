@@ -11,7 +11,7 @@ dwibase<ESC>n<ENTER>dwibase<ESC>n<ENTER>dwibase<ESC>:wq<ENTER>
   
 vim DocSearchServer.java [ENTER]
   
-![](1.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/1.png)
   
 I typed this command in the terminal and then I entered the vim from this command.
   
