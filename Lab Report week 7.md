@@ -19,7 +19,7 @@ I typed this command in the terminal and then I entered the vim from this comman
   
 /start <ENTER>
   
-![Image](step1.png)
+![Image](https://github.com/wahanucsd/cse15l-lab-reports/blob/main/step1.png)
   
 I typed this command for searching "start" in vim.
   
@@ -36,7 +36,7 @@ I typed this command for deleting the first "start".
   
 ibase
   
-![Image](step3.png)
+![](https://github.com/wahanucsd/cse15l-lab-reports/blob/main/step3.png)
   
 I typed this command to enter insert mode and add "base".
   
