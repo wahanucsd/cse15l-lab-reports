@@ -1,1 +1,1 @@
-[Link](https://github.com/wahanucsd/cse15l-lab-reports/blob/main/WanjingHan%20CSE15L%20lab%20report1)
+[Link](Lab%20Report%20week%207.md))
