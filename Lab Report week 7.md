@@ -45,7 +45,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step4.png)
+![step4](step4.png)
   
 I typed this to exit insert mode.
   
@@ -54,7 +54,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
 
-![](https://wahanucsd.github.io/cse15l-lab-reports/step5.png)
+![step5](step5.png)
   
 I typed this to find the next "start".
 
@@ -63,7 +63,7 @@ I typed this to find the next "start".
   
 dw
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step6.png)
+![step6](step6.png)
   
 I typed this command for deleting the next "start".
  
@@ -71,7 +71,7 @@ I typed this command for deleting the next "start".
   
 ibase
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step7.png)
+![step7](step7.png)
   
 I typed this command to enter insert mode and add "base".
  
@@ -81,7 +81,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step8.png)
+![step8](step8.png)
   
 I typed this to exit insert mode.  
   
@@ -93,7 +93,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step9.png)
+![step9](step9.png)
   
 I typed this to find the next "start".  
   
@@ -102,8 +102,8 @@ I typed this to find the next "start".
   
   
 dw
-  
-![](https://wahanucsd.github.io/cse15l-lab-reports/step10.png)
+
+  ![step10](step10.png)
   
 I typed this command for deleting the next "start".  
   
@@ -113,7 +113,7 @@ I typed this command for deleting the next "start".
   
 ibase
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step11.png)
+![step11](step11.png)
   
 I typed this command to enter insert mode and add "base".
   
@@ -128,7 +128,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step12.png)
+![step12](step12.png)
   
 I typed this to exit insert mode.  
   
@@ -139,10 +139,8 @@ I typed this to exit insert mode.
   
 :wq <ENTER>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step13.png)
-  
-  
-![](https://wahanucsd.github.io/cse15l-lab-reports/step14.png)
+![step13](step13.png)
+  ![step14](step14.png)
   
   
 I exit the vim and return to my terminal. 
@@ -169,14 +167,17 @@ I exit the vim and return to my terminal.
 Part 2
 
 goal: In DocSearchServer.java, in method getFile, I want to change the "It's a folder" to "It's not a folder".
+ 
   
   
-strategy 1
+
+  strategy 1
 I only used 12 second. Because I found "It's a folder" easily and I just added a "not". Then I copied the code of scp.
   
   
    
-strategy 2
+
+  strategy 2
 I spend 28 second. Although I already logged into my ssh sesion, I still spend about 20 in vim. Since I entered in normal mode and insert mode to change the code. Moreover, I need to exit to my terminal and run bash.
   
   
