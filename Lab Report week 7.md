@@ -19,7 +19,7 @@ I typed this command in the terminal and then I entered the vim from this comman
   
 /start <ENTER>
   
-![Image](https://github.com/wahanucsd/cse15l-lab-reports/blob/main/step1.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step1.png)
   
 I typed this command for searching "start" in vim.
   
@@ -28,7 +28,7 @@ I typed this command for searching "start" in vim.
   
 dw
   
-![Image](step2.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step2.png)
   
 I typed this command for deleting the first "start".
   
@@ -36,7 +36,7 @@ I typed this command for deleting the first "start".
   
 ibase
   
-![](https://github.com/wahanucsd/cse15l-lab-reports/blob/main/step3.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step3.png)
   
 I typed this command to enter insert mode and add "base".
   
@@ -45,7 +45,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![Image](step4.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step4.png)
   
 I typed this to exit insert mode.
   
@@ -54,7 +54,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
 
-![Image](step5.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step5.png)
   
 I typed this to find the next "start".
 
@@ -63,7 +63,7 @@ I typed this to find the next "start".
   
 dw
   
-![Image](step6.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step6.png)
   
 I typed this command for deleting the next "start".
  
@@ -71,7 +71,7 @@ I typed this command for deleting the next "start".
   
 ibase
   
-![Image](step7.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step7.png)
   
 I typed this command to enter insert mode and add "base".
  
@@ -81,7 +81,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![Image](step8.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step8.png)
   
 I typed this to exit insert mode.  
   
@@ -90,7 +90,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
   
-![Image](step9.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step9.png)
   
 I typed this to find the next "start".  
   
@@ -99,7 +99,7 @@ I typed this to find the next "start".
   
 dw
   
-![Image](step10.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step10.png)
   
 I typed this command for deleting the next "start".  
   
@@ -108,7 +108,7 @@ I typed this command for deleting the next "start".
   
 ibase
   
-![Image](step11.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step11.png)
   
 I typed this command to enter insert mode and add "base".
   
@@ -117,7 +117,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![Image](step12.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step12.png)
   
 I typed this to exit insert mode.  
   
@@ -126,9 +126,9 @@ I typed this to exit insert mode.
   
 :wq <ENTER>
   
-![Image](step13.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step13.png)
   
-![Image](step14.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step14.png)
   
   
 I exit the vim and return to my terminal. 
