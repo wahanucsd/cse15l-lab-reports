@@ -45,7 +45,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step4.png)
+![step4](step4.png)
   
 I typed this to exit insert mode.
   
