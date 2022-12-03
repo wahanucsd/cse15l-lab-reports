@@ -54,7 +54,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
 
-![](https://wahanucsd.github.io/cse15l-lab-reports/step5.png)
+![](step5.png)
   
 I typed this to find the next "start".
 
