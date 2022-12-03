@@ -45,7 +45,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![step4](step4.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step4.png)
   
 I typed this to exit insert mode.
   
@@ -54,7 +54,7 @@ I typed this to exit insert mode.
   
 n <ENTER>
 
-![](step5.png)
+![](https://wahanucsd.github.io/cse15l-lab-reports/step5.png)
   
 I typed this to find the next "start".
 
@@ -128,7 +128,7 @@ I typed this command to enter insert mode and add "base".
   
 <ESC>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step12.png) 
+![](https://wahanucsd.github.io/cse15l-lab-reports/step12.png)
   
 I typed this to exit insert mode.  
   
@@ -139,7 +139,8 @@ I typed this to exit insert mode.
   
 :wq <ENTER>
   
-![](https://wahanucsd.github.io/cse15l-lab-reports/step13.png) 
+![](https://wahanucsd.github.io/cse15l-lab-reports/step13.png)
+  
   
 ![](https://wahanucsd.github.io/cse15l-lab-reports/step14.png)
   
